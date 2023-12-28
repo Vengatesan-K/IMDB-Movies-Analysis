@@ -17,6 +17,8 @@ Performing comprehensive analysis on movie data, examining correlations between 
 ***
 ![0007](https://github.com/Vengatesan-K/Retail-Sales-Forecasting/assets/128688827/ef6ef2fd-aaf4-41db-8c26-bfd3e8564ab9)
 
+## Context :
+The dataset provided is related to IMDB Movies. A potential problem to investigate could be: "What factors influence the success of a movie on IMDB?" Here, success can be defined by high IMDB ratings. The impact of this problem is significant for movie producers, directors, and investors who want to understand what makes a movie successful to make informed decisions in their future projects. Consider this as an open ended question and come up with more analysis points. Anyway, here are some of the analysis ideas given to you.
 
 ### Visualization with Python
 
